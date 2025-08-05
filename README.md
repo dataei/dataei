@@ -7,7 +7,7 @@ and hardware. Always open to connecting over robotics, machine learning, or rese
 Feel free to connect!
 https://www.linkedin.com/in/denise-ataei/
 
-Contact me at...
+Contact me at
 denise.ataei1010@gmail.com
 
 https://github.com/dataei/ai-studio
